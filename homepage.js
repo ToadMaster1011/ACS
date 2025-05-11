@@ -436,7 +436,7 @@ function initSlideshow() {
   // Define slideshow image sources (using placeholder images via Unsplash)
   const imageSources = [
     'IMG_20250319_163127.jpg',
-    'https://source.unsplash.com/random/800x600/?clean+bathroom',
+    'IMG_20250319_163127.jpg',
     'https://source.unsplash.com/random/800x600/?clean+living+room',
     'https://source.unsplash.com/random/800x600/?clean+house',
     'https://source.unsplash.com/random/800x600/?cleaning+service',
